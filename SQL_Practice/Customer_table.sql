@@ -20,6 +20,10 @@ INSERT INTO Customers VALUES(6, 'Robert', 'Johnson', 'robert.johnson@email.com',
 INSERT INTO Customers VALUES(4, 'Mary', 'Williams', 'mary.williams@email.com', '123-789-0123', '789 Maple St', 'Miami', 'USA');
 INSERT INTO Customers VALUES(5, 'David', 'Miller', 'david.miller@email.com', '987-654-3210', '555 Oak St', 'Dallas', 'USA');
 INSERT INTO Customers VALUES(7, 'Eva', 'Garcia', 'eva.garcia@email.com', '444-555-6666', '222 Cedar St', 'Phoenix', 'USA');
+INSERT INTO Customers VALUES(11, 'Sophia', 'Davis', 'sophia.davis@email.com', '555-111-2222', '333 Oak St', 'Seattle', 'USA');
+INSERT INTO Customers VALUES(10, 'Daniel', 'Taylor', 'daniel.taylor@email.com', '555-333-4444', '444 Pine St', 'Denver', 'USA');
+INSERT INTO Customers VALUES(8, 'Olivia', 'Moore', 'olivia.moore@email.com', '555-555-1234', '555 Maple St', 'Austin', 'USA');
+INSERT INTO Customers VALUES(9, 'Liam', 'Hernandez', 'liam.hernandez@email.com', '555-777-8888', '888 Elm St', 'Atlanta', 'USA');
 
 -- Add more sample data as needed
 SELECT * FROM customers;
